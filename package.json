@@ -1,0 +1,15 @@
+{
+  "name": "osa3",
+  "version": "1.0.0",
+  "description": "Fullstackopen2022 kurssin 3. osio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "2022osa3"
+  },
+  "author": "Jere Tofferi",
+  "license": "MIT"
+}
